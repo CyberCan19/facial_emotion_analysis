@@ -12,7 +12,7 @@ REQUIREMENTS = [
     "numpy>=1.21.0",
     "matplotlib>=3.4.0",
     "Pillow>=9.0.0",
-    "tk"  # çoğu zaman sistemde yüklüdür ama garanti olsun diye ekledik
+    "tf-keras"
 ]
 
 APP_FILENAME = "face_app.py"  # Ana uygulamanın dosya adı
